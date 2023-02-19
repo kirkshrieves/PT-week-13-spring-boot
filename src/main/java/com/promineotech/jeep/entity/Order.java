@@ -3,6 +3,8 @@ package com.promineotech.jeep.entity;
 import java.math.BigDecimal;
 import java.util.List;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.promineotech.jeep.controller.Jeep;
+
 import lombok.Builder;
 import lombok.Data;
 
